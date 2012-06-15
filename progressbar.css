@@ -1,0 +1,36 @@
+
+.bar_shell {
+	margin-top: 200px;
+	-webkit-box-shadow: 0 8px 6px -6px grey;-moz-box-shadow: 0 8px 6px -6px grey;
+	box-shadow: 0 8px 6px -6px grey;
+	background: white;
+	border-radius: 12px;
+}
+
+.bar {
+	border-radius: 12px;
+	display: block;
+	height: 35px;
+	-webkit-animation-name: boomshakalaka;
+	-webkit-animation-duration: 2s;
+	-webkit-animation-iteration-count: 1;
+}
+
+.aesthetics { 
+	background: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
